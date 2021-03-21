@@ -139,5 +139,5 @@ You will be working in the groups, that you are currently already assigned in th
 - How many fire pokemon has higher hp than the average pokemon?
 - What primary type are the fastest?
 
-**The answers will be publicized later in the semester. You can turn in your guess by Fronter** 
+**The answers will be publicized later in the semester. You can turn in your answers by Fronter** 
 
