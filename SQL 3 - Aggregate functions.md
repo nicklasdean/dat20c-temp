@@ -128,6 +128,9 @@ You will be working in the groups, that you are currently already assigned in th
 ###### 2. What are the semantics (meaning) of the data-set?
 
 ###### Exercises:
+- Create a new database schema for the data
+- Create a table for the data
+- Insert the data
 
 - How many pokemon exists pr. primary type?
 - What are the average defence for all pokemon?
