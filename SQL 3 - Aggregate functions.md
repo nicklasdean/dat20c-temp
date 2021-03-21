@@ -117,7 +117,7 @@ Which will yield the following result:
 
 In the current lecture + next you will be working with the following data-set: 
 
-**LINK**
+https://github.com/nicklasdean/dat20c-temp/blob/master/assets/pokedex.sql
 
 You will be working in the groups, that you are currently already assigned in the UI project.
 
