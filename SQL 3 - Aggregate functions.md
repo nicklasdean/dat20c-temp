@@ -135,7 +135,6 @@ You will be working in the groups, that you are currently already assigned in th
 - How many pokemon exists pr. primary type?
 - What are the average defence for all pokemon?
 - What are the average hp for (primary) grass types? 
-- How many pokemon exists pr. primary type?
 - How many fire pokemon has higher hp than the average pokemon?
 - What primary type are the fastest?
 
